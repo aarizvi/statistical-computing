@@ -1,0 +1,36 @@
+Name	Program and Plan	Level
+"An,Bo"	Pharmaceutcl Sci Doctoral - 	Doctoral 2
+"Bu,Yahao"	Public Health Masters - 	Masters 2
+"Chang,Huiru"	Public Health Masters - 	Masters 2
+"Chen,Jiangwang"	Public Health Masters - 	Masters 2
+"Eum,Youngseob"	Arts & Sciences Doctoral - 	Doctoral 1
+"Ganley,Kevin"	Public Health Masters - 	Masters 1
+"Hess,Katelyn"	Arts & Sciences Masters - 	Masters 1
+"Hsu,En-Shuo"	Public Health Masters - 	Masters 1
+"Jai Kumar Ahuja,Suruchi"	Public Health Masters - 	Masters 1
+"Jin,Yuxuan"	Public Health Doctoral - 	Doctoral 1
+"Karaesmen,Ezgi"	Roswell Park Doctoral - 	Doctoral 2
+"Krishnan,Krithika"	Public Health Masters - 	Masters 1
+"Lin,Jieya"	Public Health Masters - 	Masters 1
+"Mandava,Aishwarya"	Public Health Masters - 	Masters 1
+"Marsales,Harry"	Public Health Masters - 	Masters 2
+"Morrell,Kayla"	Public Health Masters - 	Masters 1
+"Niu,Jin"	Pharmaceutcl Sci Doctoral - 	Doctoral 2
+"Rizvi,Abbas"	Roswell Park Doctoral - 	Doctoral 2
+"Rosario,Spencer Rae"	Roswell Park Doctoral - 	Doctoral 2
+"Schiller,Emily"	Public Health Masters - 	Masters 1
+"Song,Jiaming"	Public Health Masters - 	Masters 1
+"Spencer,Mary"	Public Health Masters - 	Masters 1
+"Sun,Xiaoxi"	Public Health Masters - 	Masters 1
+"Tanue,Terence Wankah"	Public Health Masters - 	Masters 1
+"Tian,Mingmei"	Public Health Masters - 	Masters 2
+"Vucic,Luther"	Public Health Masters - 	Masters 1
+"Wackeroth,Wolf Michael"	Public Health Masters - 	Masters 1
+"Wang,Jiefei"	Public Health Masters - 	Masters 1
+"Wang,Xue"	Roswell Park Doctoral - 	Doctoral 2
+"Wu,Yin"	Grad Sch of Ed Doctoral - 	Doctoral 2
+"Yang,Yang"	Grad Sch of Ed Doctoral - 	Doctoral 2
+"Yang,Yujie"	Pharmaceutcl Sci Doctoral - 	Doctoral 2
+"Yang,Zeyu"	Public Health Masters - 	Masters 1
+"Yu,Xinyang"	Biomedical Sci Doctoral - 	Doctoral 2
+"Zhao,Yichen"	Grad Sch of Ed Doctoral - 	Doctoral 2
